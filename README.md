@@ -14,4 +14,6 @@ https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can
 
 simulator link:
  https://github.com/zombieCraig/ICSim
+ 
+ https://2month4thales.udemy.com/organization/search/?src=ukw&q=kali%20
 
