@@ -18,4 +18,6 @@ simulator link:
  https://2month4thales.udemy.com/organization/search/?src=ukw&q=kali%20
  
  Electronics Tutorials: https://www.electronics-tutorials.ws/resistor/res_3.html
+ 
+ cloud computing: https://www.apriorit.com/dev-blog/523-cloud-computing-cyber-attacks
 
