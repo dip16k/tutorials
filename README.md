@@ -16,4 +16,6 @@ simulator link:
  https://github.com/zombieCraig/ICSim
  
  https://2month4thales.udemy.com/organization/search/?src=ukw&q=kali%20
+ 
+ Electronics Tutorials: https://www.electronics-tutorials.ws/resistor/res_3.html
 
